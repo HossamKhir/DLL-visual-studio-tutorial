@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+  stdafx.cpp
+  MathLibrary.cpp
+  Generating Code...
+     Creating library D:\workspace\MathLibrary\x64\Debug\MathLibrary.lib and object D:\workspace\MathLibrary\x64\Debug\MathLibrary.exp
+  MathLibrary.vcxproj -> D:\workspace\MathLibrary\x64\Debug\MathLibrary.dll
+  MathLibrary.vcxproj -> D:\workspace\MathLibrary\x64\Debug\MathLibrary.pdb (Full PDB)
